@@ -71,11 +71,9 @@ Custom file compression & decompression system built in Python using Huffman Cod
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suvomx1999&show_icons=true&theme=tokyonight" height="170"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvomx1999&theme=tokyonight" height="170"> </p>
 📫 Let's Connect
 
-💼 LinkedIn: [Add Your Link]
+💼 LinkedIn: 
 
-📧 Email: [Add Email]
-
-📚 Google Scholar: [If Applicable]
+📧 Email: shubashismete@gmail.com
 
 ✨ Signature
 
