@@ -2,7 +2,7 @@
 <div align="center">
 
 🚀 AI Researcher | ML Engineer | Full-Stack Developer
-🎓 M.Tech | Building Intelligent & Scalable Systems
+🎓 B.Tech | Building Intelligent & Scalable Systems
 
 </div>
 🧠 About Me
