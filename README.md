@@ -1,6 +1,8 @@
 👋 Hey, I'm Shubashis
 <div align="center">
 
+![Profile views](https://komarev.com/ghpvc/?username=suvomx1999&color=brightgreen)
+
 🚀 AI Researcher | ML Engineer | Full-Stack Developer
 🎓 B.Tech | Building Intelligent & Scalable Systems
 
