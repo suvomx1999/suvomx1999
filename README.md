@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=200&section=header&text=Shubashis%20Mete&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20Researcher%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&animation=twinkling" width="100%" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Intelligent+%26+Scalable+Systems+%F0%9F%9A%80;Federated+Learning+%7C+Hybrid+ML+%7C+Full-Stack+%F0%9F%A7%A0;Research+%2B+Engineering+%3D+Real+Impact+%E2%9A%A1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=100&lines=Building+Intelligent+%26+Scalable+Systems+%F0%9F%9A%80;Federated+Learning+%7C+Hybrid+ML+%7C+Full-Stack+%F0%9F%A7%A0;Research+%2B+Engineering+%3D+Real+Impact+%E2%9A%A1" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -138,7 +138,6 @@ me.say_hi()
 ---
 
 
----
 
 ## 📊 Activity Graph
 
