@@ -13,11 +13,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=suvomx1999&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/suvomx1999?logo=GitHub&style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/suvomx1999)
+<a href="https://github.com/suvomx1999?tab=followers">
+  <img src="https://img.shields.io/github/followers/suvomx1999?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0d1117&color=58a6ff" />
+</a>
 &nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/suvomx1999?logo=github&style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/suvomx1999)
+<a href="https://github.com/suvomx1999">
+  <img src="https://img.shields.io/github/stars/suvomx1999?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=0d1117&color=58a6ff" />
+</a>
 &nbsp;
-![CGPA](https://img.shields.io/badge/CGPA-9.375%2F10.0-brightgreen?style=for-the-badge&logo=academia&logoColor=white&labelColor=0d1117&color=58a6ff)
+<img src="https://img.shields.io/badge/CGPA-9.375%20%2F%2010.0-58a6ff?style=for-the-badge&logoColor=white&labelColor=0d1117" />
 
 </div>
 
