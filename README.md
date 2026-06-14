@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=🧠+Building+Intelligent+%26+Scalable+AI+Systems;🔬+Federated+Learning+%7C+Hybrid+ML+%7C+GenAI;🚀+Research+%2B+Engineering+%3D+Real+World+Impact;🎯+Final+Year+CSE+%40+SRM+Institute+of+Science+%26+Technology" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=120&lines=Building+Intelligent+%26+Scalable+AI+Systems%3B+Federated+Learning+%7C+Hybrid+ML+%7C+GenAI%3B+Research+%2B+Engineering+%3D+Real+World+Impact%3B+Final+Year+CSE+%40+SRM+IST" alt="Typing SVG" />
 
 <br/>
 
