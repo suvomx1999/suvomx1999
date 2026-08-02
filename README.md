@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════ TYPING SVG ═══════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=100&lines=⚡+Building+Intelligent+%26+Scalable+AI+Systems;🔬+Federated+Learning+%7C+Hybrid+ML+%7C+Agentic+AI;🧠+Research+×+Engineering+%3D+Civilizational+Impact;🎓+Final+Year+CSE+@+SRM+IST+Chennai+%7C+CGPA+9.36" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=100&lines=%E2%9A%A1+Building+Intelligent+%26+Scalable+AI+Systems;%F0%9F%94%AC+Federated+Learning+%7C+Hybrid+ML+%7C+Agentic+AI;%F0%9F%A7%A0+Research+x+Engineering+%3D+Civilizational+Impact;%F0%9F%8E%93+Final+Year+CSE+%40+SRM+IST+Chennai+%7C+CGPA+9.36" alt="Typing Animation" />
 
 <br/>
 
